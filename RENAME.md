@@ -1,0 +1,1 @@
+echo "# Lab 6" > README.md
